@@ -1,0 +1,20 @@
+
+第一级 满足要求的解决方案如下：
+AE  BE  BF  BE  BD  AD  BD  BD  BF  AE  AE  BE  AD  BF  AE  BC  BF  BE  BD  AD  BE  BF  BE  BE             
+AF  BD  BD  AE  BE  AD  AF  AF  BE  AE  BF  BE  AC  AD  BD  AE  AF  BE  BE  AC  AD  AD  BC  AE             
+AE  BC  BD  BE  AF  BD  BF  BE  BD  AF  BE  AE  AD  BD  BF  AC  BE  AE  BE  AF  AE  AE  AE               
+AD  AF  BE  BF  AE  AD  AD  BD  BD  AE  AD  AE  BD  BF  AE  BE  BE  BC  BF  AC  AF  BE  AE               
+BD  AE  BC  BE  BD  AE  BF  BD  AF  AE  BD  AD  AF  BD  BC  BD  AC  AD  BE  AF  AF  AE  BE               
+BE  BE  BD  BE  BF  BD  BF  AF  AF  BD  BE  BF  AD  AD  AE  BF  AF  BF  AC  AC  AC  BD  AE               
+BD  BE  AF  AE  BC  AC  AE  BD  BE  AD  AC  AE  AD  AD  BD  BE  AC  AE  BE  AF  BE  AD  AC               
+BE  AE  BE  BE  AC  BD  BD  BE  BE  AC  BC  BE  AE  AE  BE  AE  BE  BC  AD  AE  AE  AD  AD               
+BE  AF  BF  BE  BD  AD  BE  AD  AD  AF  BD  BE  AE  BD  AD  AF  BD  BD  BE  AE  BF  BE  BC               
+本次任务总时间为: 163小时
+本次任务总成本为: 247.378万元
+国A库库存∞吨，出货量： 495 吨
+国B库库存∞吨，出货量： 550 吨
+
+省C库实际需求量： 116 吨，获得量： 120 吨
+省D库实际需求量： 303 吨，获得量： 305 吨
+省E库实际需求量： 420 吨，获得量： 420 吨
+省F库实际需求量： 200 吨，获得量： 200 吨

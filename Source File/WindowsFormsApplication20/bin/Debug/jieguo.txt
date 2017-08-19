@@ -1,0 +1,86 @@
+
+本模型解决方案如下：
+
+第一级 满足要求的解决方案如下：
+AE  BE  BF  BE  BD  AD  BD  BD  BF  AE  AE  BE  AD  BF  AE  BC  BF  BE  BD  AD  BE  BF  BE  BE             
+AF  BD  BD  AE  BE  AD  AF  AF  BE  AE  BF  BE  AC  AD  BD  AE  AF  BE  BE  AC  AD  AD  BC  AE             
+AE  BC  BD  BE  AF  BD  BF  BE  BD  AF  BE  AE  AD  BD  BF  AC  BE  AE  BE  AF  AE  AE  AE               
+AD  AF  BE  BF  AE  AD  AD  BD  BD  AE  AD  AE  BD  BF  AE  BE  BE  BC  BF  AC  AF  BE  AE               
+BD  AE  BC  BE  BD  AE  BF  BD  AF  AE  BD  AD  AF  BD  BC  BD  AC  AD  BE  AF  AF  AE  BE               
+BE  BE  BD  BE  BF  BD  BF  AF  AF  BD  BE  BF  AD  AD  AE  BF  AF  BF  AC  AC  AC  BD  AE               
+BD  BE  AF  AE  BC  AC  AE  BD  BE  AD  AC  AE  AD  AD  BD  BE  AC  AE  BE  AF  BE  AD  AC               
+BE  AE  BE  BE  AC  BD  BD  BE  BE  AC  BC  BE  AE  AE  BE  AE  BE  BC  AD  AE  AE  AD  AD               
+BE  AF  BF  BE  BD  AD  BE  AD  AD  AF  BD  BE  AE  BD  AD  AF  BD  BD  BE  AE  BF  BE  BC               
+本次任务总时间为: 163小时
+本次任务总成本为: 247.378万元
+国A库库存∞吨，出货量： 495 吨
+国B库库存∞吨，出货量： 550 吨
+
+省C库实际需求量： 116 吨，获得量： 120 吨
+省D库实际需求量： 303 吨，获得量： 305 吨
+省E库实际需求量： 420 吨，获得量： 420 吨
+省F库实际需求量： 200 吨，获得量： 200 吨
+第二级 省1 满足要求的解决方案如下：
+IP  HO  GO  GO  HP  IR  GN                                                                   
+IP  IQ  IP  IP  HP  GR  GN                                                                   
+IR  IQ  HP  HQ  IO  GR  GN                                                                   
+HO  IP  IP  IO  IP  GR  GN                                                                   
+GP  IO  IP  IP  IO  GR  GN                                                                   
+HQ  HO  GQ  GO  IO  GR  GN                                                                   
+IQ  IR  HQ  GQ  IP  GR  GN                                                                   
+GO  HP  IQ  HR  IP  GR  GN                                                                   
+HP  IP  IP  HQ  GO  GR  GN                                                                   
+IQ  HP  IP  IP  IP  GR  GN                                                                   
+IP  IO  IO  IQ  GO  GR  GN                                                                   
+IO  IP  GO  IQ  GO  GR  GN                                                                   
+GO  IQ  IO  HQ  GR  GR  GN                                                                   
+HP  HO  IP  HQ  GO  GR  GN                                                                   
+GO  IQ  HP  IP  IP  GR  GN                                                                   
+IP  IR  IP  IP  HR  GR  GN                                                                   
+HP  HQ  HO  HR  IQ  GN  GN                                                                   
+GQ  HO  HO  HQ  GO  GR  GN                                                                   
+HR  HP  IP  IQ  HO  GR  GN                                                                   
+HO  HP  GQ  HQ  IR  GN                                                                     
+省1-1库 库存50吨，进货量：120吨，出货量： 168 吨
+省1-2库 库存100吨，出货量： 99 吨
+省1-3库 库存150吨，出货量： 150 吨
+灾害点1实际需求量： 50 吨，获得量： 63 吨
+灾害点2实际需求量： 90 吨，获得量： 90 吨
+灾害点3实际需求量： 110 吨，获得量： 111 吨
+灾害点4实际需求量： 70 吨，获得量： 72 吨
+灾害点5实际需求量： 80 吨，获得量： 81 吨
+第二级 省2 满足要求的解决方案如下：
+LT  LT  KT  KS  KS  JX  KX  JU  JU  JY  KY  KV  KV  KV                                                     
+LT  KT  KW  KS  JS  JX  KX  JX  KU  KY  KY  KV  JV  KV                                                     
+MT  MW  KW  KS  JS  JX  JX  JU  KU  JY  KY  KV  KV  JV                                                     
+LT  KT  KW  KS  JS  JX  JX  JU  JU  JY  JY  KV  KV  KV                                                     
+MT  MW  KW  KS  JS  JX  JX  KU  KU  JY  JY  KV  KV  KV                                                     
+MT  KT  JW  KS  JS  KX  JX  KU  KU  JY  KY  JV  KV  KV                                                     
+MT  MW  KW  KS  JS  KX  JX  KU  JU  JY  KY  JV  KV  KV                                                     
+LT  JW  KW  KS  JS  JX  KX  KU  JU  KY  KY  KV  JV  KV                                                     
+MT  JT  JW  KS  JS  JX  JX  KU  JU  KY  JY  KV  KV  KV                                                     
+MT  JT  KW  KS  JS  JX  JX  KU  KU  KY  JY  KV  KV  KV                                                     
+LT  JW  JW  KS  KX  KX  KX  KU  JU  JY  KY  KV  JV                                                       
+LT  LW  KW  KS  KX  JX  KX  KU  KU  KY  KY  KV  JV                                                       
+MT  MW  KW  KS  JS  KX  KX  JU  KU  JY  KY  KV  KV                                                       
+LT  MW  KW  KS  JX  JX  KX  KU  KU  JY  KY  KV  KV                                                       
+MT  MW  JS  KS  JX  JX  KX  KU  JU  KY  KY  JV  KV                                                       
+LT  KT  KW  JS  JX  KX  KX  JU  JU  KY  KY  JV  JV                                                       
+MT  KT  JS  JS  KX  JX  KX  JU  JU  KY  KY  JV  JV                                                       
+LT  LW  KW  JS  JX  JX  JX  KU  JU  JY  JV  KV  KV                                                       
+MT  KW  KW  JS  KX  KX  KX  KU  JU  KY  JV  KV  KV                                                       
+LT  JT  JS  JS  KX  KX  KX  JU  JU  KY  JV  JV  KV                                                       
+省2-1库 库存0吨，进货量：305吨，出货量： 303 吨
+省2-2库 库存0吨，进货量：420吨，出货量： 420 吨
+省2-3库 库存40吨，出货量： 39 吨
+省2-4库 库存50吨，出货量： 48 吨
+灾害点6实际需求量： 100 吨，获得量： 102 吨
+灾害点7实际需求量： 90 吨，获得量： 90 吨
+灾害点8实际需求量： 115 吨，获得量： 117 吨
+灾害点9实际需求量： 135 吨，获得量： 159 吨
+灾害点10实际需求量： 80 吨，获得量： 81 吨
+灾害点11实际需求量： 150 吨，获得量： 150 吨
+灾害点12实际需求量： 110 吨，获得量： 111 吨
+
+一二级 总任务时间 为:162小时
+一二级 总任务成本 为: 475.402万元

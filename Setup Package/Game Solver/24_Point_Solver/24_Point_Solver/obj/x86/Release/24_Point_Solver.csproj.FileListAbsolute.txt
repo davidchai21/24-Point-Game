@@ -1,0 +1,9 @@
+G:\C++ Files\24_Point_Solver\24_Point_Solver\bin\Release\24_Point_Solver.exe
+G:\C++ Files\24_Point_Solver\24_Point_Solver\bin\Release\24_Point_Solver.pdb
+G:\C++ Files\24_Point_Solver\24_Point_Solver\obj\x86\Release\ResolveAssemblyReference.cache
+G:\C++ Files\24_Point_Solver\24_Point_Solver\obj\x86\Release\_24_Point_Solver.Form1.resources
+G:\C++ Files\24_Point_Solver\24_Point_Solver\obj\x86\Release\_24_Point_Solver.Properties.Resources.resources
+G:\C++ Files\24_Point_Solver\24_Point_Solver\obj\x86\Release\GenerateResource.read.1.tlog
+G:\C++ Files\24_Point_Solver\24_Point_Solver\obj\x86\Release\GenerateResource.write.1.tlog
+G:\C++ Files\24_Point_Solver\24_Point_Solver\obj\x86\Release\24_Point_Solver.exe
+G:\C++ Files\24_Point_Solver\24_Point_Solver\obj\x86\Release\24_Point_Solver.pdb
